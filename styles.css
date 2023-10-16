@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Noto+Sans+KR:wght@900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+    background-color: #e9eef0;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+section {
+    margin-bottom: 20px;
+}
+.intro{
+    font-weight: bold;
+    color: #3b3a22e4;
+}
+.verse {
+    font-style: italic;
+    color: #555;
+}
+.chorus {
+    font-weight: bold;
+    color: #4e5f71;
+}
+.outro{
+    font-weight: bold;
+    color: #3b3a22e4;
+}
