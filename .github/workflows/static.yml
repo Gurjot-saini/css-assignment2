@@ -1,0 +1,178 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+    <header>
+        <h1>THE LAST RIDE</h1>
+        <h2>by Sidhu MooseWala</h2>
+        <audio controls>
+            <source src="The Last Ride - Sidhu Moose Wala.mp3" type="audio/ogg">
+            <source src="The Last Ride - Sidhu Moose Wala.mp3" type="audio/mpeg">
+        </audio>
+    </header>
+    <main>
+        <section id="lyrics">
+           <h3> [Intro: Wazir Patar]</h3><br>
+            <section class="intro">Yeah
+                Aah<br>
+                Yo Wazir!<br>
+                Sidhu Moose Wala baby!<br>
+                (Tell em where ya from man!)<br>
+            </section>
+            <br>
+            <section class="verse">
+                [Verse 1: Sidhu Moose Wala]<br>
+                Ho umar de hisaab naal doona ruthba<br>
+                Thoda nahio bahla hi khalaki chalda<br>
+                Akhan ch akhiti koyi sheh boldi<br>
+                Aivein nai koyi duniya ton aaki chalda<br>
+                Ho pichhle koyi karman da dhani lagdae<br>
+                Ya phir meharbaan hai khawaja mithiye<br><br>
+            </section>
+
+            <section class="chorus">
+                [Chorus: Sidhu Moose Wala]<br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br>
+                <br>
+            </section>
+            (Wazir in the hood!)<br><br>
+
+            <section class="verse">
+                [Verse 2: Sidhu Moose Wala]<br>
+                Ho lokan deyan turreyan te paida bani aan<br>
+                Jatt wangu turreyan te rah ni bane<br>
+                Ho duniya de bade ne chahete boht ni<br>
+                Ehde wangu kise de khuda ni bane<br>
+                Khud naale khud jeha khitta chakkeya<br>
+                Bach kalla chakkeya ni baaja mithiye<br>
+                <br>
+            </section>
+
+            <section class="chorus">
+                [Chorus: Sidhu Moose Wala]<br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br>
+                <br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br>
+                <br><br>
+            </section>
+
+            <section class="verse">
+                [Verse 3: Sidhu Moose Wala]<br>
+                Ho ghairan deyan matheyan te pein wrinkle’an<br>
+                Ess hisaab naal koyi jawan nai hunda<br>
+                Manneya tarakki lokan bahut kitti hou<br>
+                Par ainni chheti koyi mahan ni hunda<br>
+                Takhtan zamane da palat ho gaya<br>
+                Badle ne ditti aan riwajan mithiye<br><br>
+            </section>
+
+            <section class="chorus">
+                [Chorus: Sidhu Moose Wala]<br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br><br>
+
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br><br>
+            </section>
+
+            <section class="verse">
+                [Verse 4: Sidhu Moose Wala]<br>
+                Ho bahuteyan di hate da oh hissa baneya<br>
+                Bahut ohnu aithe chaunde chaunde mar gaye<br>
+                Duniya te charhtde jhande jhoolde<br>
+                Barhe ohnu shehar ch haraunde mar gaye<br>
+                Jitt naalo zyade jihdi haar boldi<br>
+                Aithon laa le ki ae andaja mithiye<br>
+            </section>
+
+            <section class="chorus">
+                [Chorus: Sidhu Moose Wala]<br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br>
+
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br>
+            </section>
+
+            <section class="verse">
+                [Verse 5: Sidhu Moose Wala]<br>
+                Ho duniya tu vekhi othe karu sajde<br>
+                Jithe jithe paine billo pair jatt de<br>
+                Waddeyan gharaneyan naal pith judti<br>
+                Wadde wadde waddeyan naal vair jatt de<br>
+                Ho dass khabbi khaan kithe sadde match da<br>
+                Malwa doaba ki ae majha mithiye<br><br>
+            </section>
+
+            <section class="chorus">
+                [Chorus: Sidhu Moose Wala]<br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br><br>
+
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br><br>
+            </section>
+
+            <section class="verse">
+                [Verse 6: Sidhu Moose Wala]<br>
+                Ho moddeyan te kaalji de paunda boliyan<br>
+                Biba yalgaar jihdi shehri bandi<br>
+                Ho ginti de din oh jeyonde jagg te<br>
+                Ant nu tarakki jihdi vairi bandi<br>
+                Ho mard mashookan wangu maut udeekda<br>
+                Khaure kadon khadkau darwaja mithiye<br><br>
+            </section>
+
+            <section class="chorus">
+                [Chorus: Sidhu Moose Wala]<br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br><br>
+
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br><br>
+            </section>
+
+            <section class="verse">
+                [Verse 7: Sidhu Moose Wala]<br>
+                Ho bebaak body language mithiye<br>
+                Geetan vich harkhi jehe touch boldae<br>
+                Aivein nahio duniya khilaaf hoyi ni<br>
+                Lod ton zyada e munda sach boldae<br>
+                Lod ton zyada e munda sach boldae<br>
+                Ho zindagi da dhangnama phire likhda<br>
+                Badeyan ne sahiba aa te heera likhiya<br>
+                Ditti ni taseer kithe mull nakhro<br>
+                Ant nu tu dekh tasveeran vikkiyan<br>
+                Ho Moose Wala jeyonda hi amar ho gaya<br>
+                Bahuti ayia jagg te awajjan mithiye<br><br>
+            </section>
+
+            <section class="chorus">
+                [Chorus: Sidhu Moose Wala]<br>
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br><br>
+
+                Ho chobbar de chehre utte noor dassda<br>
+                Ni ehda uthuga jawani ch janaja mithiye<br><br>
+            </section>
+            
+            <section class="outro">
+                [Outro: Wazir Patar]<br>
+                Wazir in the hood!<br><br>
+            </section>
+        </section>
+    </main></div>
+</body>
+</html>
